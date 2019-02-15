@@ -1,5 +1,6 @@
-import java.util.Scanner;
 //ASIMWE BYARUHANGA 16/143/BIT-M
+import java.util.Scanner;
+
 public class Asimwe_Grade{
 
     public static void main(String[] args) {
